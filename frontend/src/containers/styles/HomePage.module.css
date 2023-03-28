@@ -1,5 +1,14 @@
 body{
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
     background-color: black;
-    /* display: flex;
-    justify-content: center; */
+}
+
+.imageContainer{
+    margin: 50px;
+    border: 2px solid gray;
+    padding: 10px;
+    max-width: 1000px;
+    border-radius: 10px;
 }

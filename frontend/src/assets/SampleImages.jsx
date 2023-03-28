@@ -12,4 +12,5 @@ export const data = [
   "https://wallpapercave.com/dwp1x/wp2123957.jpg",
   "https://wallpapercave.com/dwp1x/wp4734317.jpg",
   "https://wallpapercave.com/dwp1x/wp1959387.png",
+  "https://wallpapercave.com/dwp1x/wp2201018.png"
 ]
